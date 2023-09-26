@@ -1,0 +1,22 @@
+body {
+    background-color: #d3d3d3
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
+    font-size: calc(5px + 2vmin);
+    color: #000000;
+}
+
+.container {
+    width: 250px;
+    height: 350px;
+    background: #88abd3;
+    border: 3px solid #000000;
+    border-radius: 10px;
+}
